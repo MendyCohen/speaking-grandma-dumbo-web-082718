@@ -15,7 +15,7 @@
      elsif string != "I LOVE YOU GRANDMA!"
      return "NO, NOT SINCE 1938!"
    else
-     return "I LOVE YOU GRANDMA!"
+     return "I LOVE YOU TOO PUMPKIN!"
    end 
  end
 
