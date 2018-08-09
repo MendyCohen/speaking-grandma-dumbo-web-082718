@@ -3,7 +3,7 @@
    if string == string.upcase
      return "I LOVE YOU TOO PUMPKIN!"
    else
-     return "HUH? ! SPEAKUP, SONNY!"
+     return "HUH?! SPEAKUP, SONNY!"
    end 
  end
 
